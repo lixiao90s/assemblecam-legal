@@ -13,7 +13,9 @@ Modeled after [pick10-legal](https://github.com/lixiao90s/pick10-legal).
 | `privacy.html` | `/privacy` | **Privacy Policy URL** |
 | `terms.html` | `/terms` 或 `/terms.html` | 用户协议 / 自定义 EULA |
 | `legal.html` | `/legal.html` | 法律文档索引 |
-| `app-ads.txt` | `/app-ads.txt` | AdMob 验证 |
+
+> `app-ads.txt` 已移除（当前版本无广告）。
+
 
 ## App Store Connect 填写
 
